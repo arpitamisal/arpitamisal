@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, Everyone! 👋
 
 👋 Hello, I'm Arpita Misal, a Software Engineering major at San Jose State University, on a journey to turn my passion for technology into tangible solutions. 🚀
 
