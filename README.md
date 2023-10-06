@@ -30,6 +30,6 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me:
     - email: arpitmisal2003@gmail.com
-    - Linkedin: (linkedin.com/in/arpita-misal)
-    - Instagram: (https://www.instagram.com/arpitamisal/)
+    - Linkedin: https://www.linkedin.com/in/arpita-misal
+    - Instagram: https://www.instagram.com/arpitamisal/
 - 😄 Pronouns: she/her/hers
