@@ -14,7 +14,7 @@ I'm Arpita Misal, a dedicated Software Engineering major at San Jose State Unive
 
 🛠️ Tech Stack
 - 🖥️ Languages: Java, HTML/CSS, JavaScript, Python, R
-- 🛢️ Databases: MySQL, MariaDB, DBeaver
+- 🛢️ Databases: MySQL, MariaDB, DBeaver, mongoDB
 - 🚀 Frameworks: React, Node.js, Express.js
 <!-- + - ☁️ Cloud: AWS, Azure
 - 🧪 Testing: Jest, JUnit + -->
