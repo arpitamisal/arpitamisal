@@ -1,9 +1,10 @@
 👋 Hello, Everyone! Welcome to my GitHub World! 
 
-I'm Arpita Misal, a dedicated Software Engineering major at San Jose State University, passionate about creating tech-driven solutions that make an impact. 🚀
+I'm Arpita Misal, a dedicated Software Engineering major at San Jose State University, with a passion for AI, Machine Learning, and creating tech-driven solutions that make a meaningful impact. 🚀
 
 🌟 About Me
 - 🎓 Studying Software Engineering at San Jose State University.
+- 🤖 Enthusiast of Generative AI, ML pipelines, and real-world problem solving
 - 🌆 Located in the heart of Silicon Valley.
 - 🧠 Lifelong learner, always curious about emerging technologies.
 - 🌐 Committed to open-source projects and collaborative coding.
@@ -13,9 +14,11 @@ I'm Arpita Misal, a dedicated Software Engineering major at San Jose State Unive
 - 💼 [Previous Job/Internship 2]: Highlight your experiences and skills. + -->
 
 🛠️ Tech Stack
-- 🖥️ Languages: Java, HTML/CSS, JavaScript, Python, R
-- 🛢️ Databases: MySQL, MariaDB, DBeaver, mongoDB
-- 🚀 Frameworks: React, Node.js, Express.js
+- 🖥️ Languages: Python, Java, C++, JavaScript, R, HTML/CSS, SQL, Shell Script
+- 🛢️ Databases: MySQL, MariaDB, DBeaver, MongoDB, PostgresSQL
+- 🚀 Frameworks: React, Node.js, Express.js, Django, Angular, React Native, FlutterFlow
+- 🦙 AI/ML Tools: Scikit-learn, Pandas, NumPy, Jupyter Notebook, LangChain, Streamlit, Oracle Cohere, Meta Llama, RAG, LLMs, Generative AI
+- 🐧 Other Tools: Git, Linux, Postman, Figma, Xcode
 <!-- + - ☁️ Cloud: AWS, Azure
 - 🧪 Testing: Jest, JUnit + -->
 
