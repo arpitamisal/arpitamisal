@@ -31,7 +31,7 @@ I'm Arpita Misal, a dedicated Software Engineering major at San Jose State Unive
 - [Add more projects as necessary] + -->
 
 👥 Connect with Me
-- 📧 Email: arpitmisal2003@gmail.com
+- 📧 Email: arpitmisal2003@gmail.com | arpita.misal@sjsu.edu
 - 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/arpita-misal)
 
 💬 Let's Collaborate
