@@ -13,12 +13,13 @@ I'm Arpita Misal, a dedicated Software Engineering major at San Jose State Unive
 - 💼 [Previous Job/Internship 1]: Mention where you've worked and what you did.
 - 💼 [Previous Job/Internship 2]: Highlight your experiences and skills. + -->
 
-🛠️ Tech Stack
-- 🖥️ Languages: Python, Java, C++, JavaScript, R, HTML/CSS, SQL, Shell Script
-- 🛢️ Databases: MySQL, MariaDB, DBeaver, MongoDB, PostgresSQL
-- 🚀 Frameworks: React, Node.js, Express.js, Django, Angular, React Native, FlutterFlow
-- 🦙 AI/ML Tools: Scikit-learn, Pandas, NumPy, Jupyter Notebook, LangChain, Streamlit, Oracle Cohere, Meta Llama, RAG, LLMs, Generative AI
-- 🐧 Other Tools: Git, Linux, Postman, Figma, Xcode
+## 🛠️ Tech Stack
+- 💻 **Languages:** Python, Java, C++, JavaScript, R, SQL, HTML/CSS, Shell Script  
+- 🗄️ **Databases:** MySQL, PostgreSQL, MariaDB, MongoDB  
+- 🤖 **AI/ML:** Scikit-learn, Pandas, NumPy, Seaborn, Matplotlib, Pyspark, LangChain, RAG, LLMs, Generative AI  
+- 🚀 **Frameworks:** React, Node.js, Express.js, Django, Angular, JavaFX, Streamlit  
+- ☁️ **Cloud & Data:** AWS, Azure Databricks, Delta Lake, Medallion Architecture  
+- 🛠️ **Tools:** Git, Linux, Docker (basics), Postman, IntelliJ  
 <!-- + - ☁️ Cloud: AWS, Azure
 - 🧪 Testing: Jest, JUnit + -->
 
