@@ -1,6 +1,6 @@
 👋 Hello, Everyone! Welcome to my GitHub World! 
 
-I'm Arpita Misal, a dedicated Software Engineering major at San Jose State University, with a passion for AI, Machine Learning, and creating tech-driven solutions that make a meaningful impact. 🚀
+I'm Arpita Misal, a dedicated Software Engineering major at San Jose State University, with a passion for turning data into actionable insights, AI/ML and creating tech-driven solutions that make a meaningful impact. 🚀
 
 🌟 About Me
 - 🎓 Studying Software Engineering at San Jose State University.
